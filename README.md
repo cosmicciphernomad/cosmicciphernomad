@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @cosmicciphernomad
 - 👀 My PGP Public Key
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEZWcVphYJKwYBBAHaRw8BAQdAUE6QZ+3mDu0Nw/1v3/A9SVF9gK5LBGbTAt/7
@@ -14,3 +15,4 @@ ZWcVpgmQg7dx+LS9SSUCmwwWIQQzVxYj48UuvgIWq8WDt3H4tL1JJQAAd6EBALEZ
 2aHGJYfy942GD6C2eBmrAw==
 =jvpK
 -----END PGP PUBLIC KEY BLOCK-----
+```
